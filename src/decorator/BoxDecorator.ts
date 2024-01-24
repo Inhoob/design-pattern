@@ -1,5 +1,5 @@
 import Decorator from "./Decorator";
-import Item from "./item";
+import Item from "./Item";
 
 export default class BoxDecorator extends Decorator {
   getLinesCount(): number {

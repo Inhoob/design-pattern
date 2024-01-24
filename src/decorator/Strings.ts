@@ -1,4 +1,4 @@
-import Item from "./item";
+import Item from "./Item";
 export default class Strings extends Item {
   getLinesCount(): number {
     return this.data.length;
