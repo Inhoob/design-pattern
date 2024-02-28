@@ -12,7 +12,8 @@ module.exports = {
   // entry: "./src/composite/index.ts",
   // entry: "./src/factoryMethod/index.ts",
   // entry: "./src/observer/index.ts",
-  entry: "./src/memento/index.ts",
+  // entry: "./src/memento/index.ts",
+  entry: "./src/mediator/index.ts",
   devtool: "inline-source-map",
   module: {
     rules: [
